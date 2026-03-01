@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "海のまにまに - Umi no Manimani",
+  "base_artist": "YOASOBI",
+  "createdAt": "2026-03-01T01:40:10.595073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "海のまにまに",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/01_海のまにまに_YOASOBI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "海のまにまに",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_海のまにまに_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "海のまにまに",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_海のまにまに_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "海のまにまに",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/04_海のまにまに_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "海のまにまに - Umi no Manimani",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/05_海のまにまに_-_Umi_no_Manimani_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "海のまにまに",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/06_海のまにまに_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "海のまにまに",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/07_海のまにまに_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "海のまにまに",
+      "artist": "YOASOBI, Ayase",
+      "has_synced": true,
+      "path": "select/08_海のまにまに_YOASOBI,_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "海のまにまに",
+      "artist": "YOASOBI, Ayase",
+      "has_synced": true,
+      "path": "select/09_海のまにまに_YOASOBI,_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "海のまにまに (manimani)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/10_海のまにまに_(manimani)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "海のまにまに",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/11_海のまにまに_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "﻿海のまにまに",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/12_﻿海のまにまに_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "YOASOBI「海のまにまに」Official Music Video",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/13_YOASOBI「海のまにまに」Official_Music_Video_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海のまにまに",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_海のまにまに_YOASOBI.txt"
+    }
+  ]
+}
